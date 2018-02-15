@@ -1,5 +1,5 @@
 $('#paragraph').click(
-    function(){
+    function () {
         $('#paragraph').hide();
     }
 );

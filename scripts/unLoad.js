@@ -1,5 +1,5 @@
 $(window).on('unload',
-    function(){
+    function () {
         console.log('You are leaving this page.');
     }
 );

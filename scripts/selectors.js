@@ -14,7 +14,7 @@ var text = $('#text').text();
 alert(text);
 
 $('#click_me').click(
-    function(){
+    function () {
         alert("Hello");
     }
 );

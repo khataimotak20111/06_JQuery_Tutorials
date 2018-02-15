@@ -1,5 +1,5 @@
 $('img').on('load',
-    function(){
+    function () {
         alert("Image is Loaded.");
     }
 );

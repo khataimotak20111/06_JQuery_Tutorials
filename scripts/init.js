@@ -1,5 +1,5 @@
 $(document).ready(
-    function(){
+    function () {
         $('#message').fadeIn('slow');
     }
 );

@@ -6,3 +6,11 @@ iframe{
     width: 100% !important;
     height: 500px !important;
 }
+
+.tableEffect, .tableEffect tr, .tableEffect td{
+    border: 1px solid maroon;
+}
+
+.highlight{
+    background-color: blueviolet;
+}
